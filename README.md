@@ -12,3 +12,5 @@ File Information
 File Name: dirty_cafe_sales.csv  
 Number of Rows: 10,000  
 Number of Columns: 8  
+
+https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training?resource=download  
